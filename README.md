@@ -1,2 +1,3 @@
-# Effectice Data Products
-This repository contains accompanying resources, templates, datasets, and sample code  for the proposed book title "Effective Data Products"
+# Effective Data Products
+Some free SVGs that may help others. All graphics have been created by me and used in my posts in [dataREADME](https://datareadme.substack.com). 
+
